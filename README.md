@@ -1,1 +1,3 @@
-# Stepik_Practical_Python_Materials
+# Курс "Практический Python: анализ данных мозга для начинающих"
+
+Ссылка на курсе на Stepik: https://stepik.org/course/256871/
